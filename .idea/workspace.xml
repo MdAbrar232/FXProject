@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4efd88aa-a8a4-41c9-b3ba-2421e0fd502e" name="Changes" comment="" />
+    <list default="true" id="4efd88aa-a8a4-41c9-b3ba-2421e0fd502e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FXProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FXProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/ContentScene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/ContentScene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/ControllerContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/ControllerContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/ControllerHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/ControllerHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/Homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/Homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/Login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/Login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxpackage/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxpackage/TestController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MdAbrar232"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MdAbrar232/FXProject.git",
+    "accountId": "714f3cb8-ee26-429f-9e7b-2e878271684b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gsNvGnX6t8U0IibeRGpUnm9KgB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,13 +54,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestController.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CSE215 - Programming Language II (Java)/JavaFX",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/CSE215 - Programming Language II (Java)/FXProject/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestController" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fxpackage.TestController" />
+      <module name="FXProject" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,22 +98,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716482555466</updated>
-      <workItem from="1716482556564" duration="1000" />
+      <workItem from="1716482556564" duration="167000" />
+      <workItem from="1716482740073" duration="8069000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
